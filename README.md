@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Open-source projects or small development teams where I can contribute and gain hands-on experience. I'm eager to work with others who are passionate about software development.
 - 🤔 I’m looking for help with Finding my first software development job or internship. I would appreciate any guidance, advice, or mentorship from experienced developers on breaking into the industry.
 - 💬 Ask me about: My coding journey, my favorite programming languages, or any questions you have about the projects I'm working on. I'm always eager to discuss tech-related topics.
-- 📫 How to reach me: <a href-"https://www.linkedin.com/in/nora-akwasapi/"target-"_blank">Nora Akwasapi</a> so feel free to connect with me there.
+- 📫 How to reach me: <a href->"https://www.linkedin.com/in/nora-akwasapi/"Nora Akwasapi</a> so feel free to connect with me there.
 - ⚡ Fun fact:I have worked for more than a decade in fashion as a fashion designer. My background in design has taught me the importance of creativity, precision, and attention to detail, skills I'm eager to apply in the world of software development.
