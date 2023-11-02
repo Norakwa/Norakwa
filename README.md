@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"centre">Hi there , I am Nora Akwasapi 👋</h1>
+<h1 align-"centre">Hi there , I am Nora Akwasapi 👋</h1>
 
 - 🔭 I’m currently working on: Personal coding projects to build a strong portfolio. These projects include a simple web application for tracking personal expenses and a basic mobile app for task management.
 - 🌱 I’m currently learning: Various programming languages and technologies, such as Python and MySql. I'm also improving my problem-solving skills through coding challenges on platforms like LeetCode and HackerRank.
